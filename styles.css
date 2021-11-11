@@ -1,0 +1,40 @@
+*{ 
+    font-family:'Times New Roman', Times, serif;
+}
+
+body{
+    margin: 40px;
+}
+h1{
+    color: darkcyan;
+    background-color: lightgrey;
+    margin: 20px;
+    text-align: center;
+
+
+}
+nav{
+    text-align: center;
+    
+
+}
+a{
+    color: darkblue;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+   
+}
+img{
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.hello{
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+}
